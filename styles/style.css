@@ -8,7 +8,7 @@
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
 }
 
 /* div {
@@ -44,9 +44,16 @@
   font-family: "Inter";
   font-size: 102px;
   line-height: 96px;
-  font-weight: 400;
+  font-weight: 600;
   z-index: 2;
 }
+
+/* .header__title_h1 {
+  font-family: "Inter";
+  font-size: 102px;
+  line-height: 96px;
+  font-weight: 600;
+} */
 
 .header__subtitle {
   position: absolute;
@@ -57,6 +64,10 @@
   font-size: 18px;
   line-height: 25px;
   z-index: 2;
+}
+
+.header__link {
+  color: #2f80ed;
 }
 
 .header__main-illustration {
