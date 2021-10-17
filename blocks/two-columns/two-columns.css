@@ -2,11 +2,6 @@
   display: flex;
   justify-content: space-between;
   width: 80%;
-  margin: 100px auto;
-}
-
-.two-columns_place_description {
-  margin: 100px auto;
 }
 
 .two-columns__brief {
