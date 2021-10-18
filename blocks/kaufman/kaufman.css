@@ -1,0 +1,9 @@
+.kaufman {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* width: 80%; */
+}
