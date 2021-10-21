@@ -17,6 +17,7 @@
 }
 .footer__column_content_copyright {
   position: relative;
+  flex-basis: 711px;
 }
 .logo {
 }
@@ -30,7 +31,7 @@
   font-weight: 400;
   padding-top: 18px;
   padding-bottom: 18px;
-  flex-basis: 711px;
+
   position: absolute;
   bottom: 0;
 }
